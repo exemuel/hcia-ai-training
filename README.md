@@ -5,6 +5,9 @@ Compiled notes for all 7 courses in the Huawei Certified ICT Associate – Artif
 ### Introduction
 This course is jointly launched by Huawei and Chongqing University of Posts and Telecommunications, and Dalian University of Technology，matching the HCIA-AI V3.0（Released on September 17, 2020). Through this course, you will systematically understand the AI development history, the Huawei Ascend AI system, the full-stack all-scenario AI strategy，and the algorithms related to traditional machine learning and deep learning; TensorFlow and MindSpore. HCIA-AI V1.0 will be offline on June 30, 2021.
 
+### Duration
+480 minutes
+
 ### Course Objectives
 1. Master the AI development history, the Huawei Ascend AI system, the full-stack all-scenario AI strategy，and algorithms related to traditional machine learning and deep learning.
 2. Be able to build, train, and deploy neural networks by using development frameworks TensorFlow and MindSpore.
