@@ -17,7 +17,7 @@ Engineers who need to master AI technologies, learn and use deep learning algori
 
 <table>
   <tr>
-    <td align="center"><img src="https://klt-static-content1.obs.cn-north-4.myhuaweicloud.com/migration/rczx/course/content_producer_img/712e94b42f9111ebadf8fa163e8e7caa_%E5%90%B4%E5%B0%8F%E6%9E%97.jpg" width="100" height="100"><br>Hongwei Ge</td>
+    <td align="center"><img src="https://klt-static-content1.obs.cn-north-4.myhuaweicloud.com/migration/rczx/course/content_producer_img/65a9997c2f9111ebadf8fa163e8e7caa_%E8%91%9B%E5%AE%8F%E4%BC%9F.jpg" width="100" height="100"><br>Hongwei Ge</td>
     <td align="center"><img src="https://klt-static-content1.obs.cn-north-4.myhuaweicloud.com/migration/rczx/course/content_producer_img/712e94b42f9111ebadf8fa163e8e7caa_%E5%90%B4%E5%B0%8F%E6%9E%97.jpg" width="100" height="100"><br>Xiaolin Wu</td>
       <td align="center"><img src="https://klt-static-content1.obs.cn-north-4.myhuaweicloud.com/migration/rczx/course/content_producer_img/798e199a2f9111ebadf8fa163e8e7caa_%E5%AD%99%E4%BA%AE.jpg" width="100" height="100"><br>Liang Sun</td>
       <td align="center" width="33%" style="border:0px; width:25%;"><img src="https://klt-static-content1.obs.cn-north-4.myhuaweicloud.com/migration/rczx/course/content_producer_img/84a142122f9111ebadf8fa163e8e7caa_%E6%9F%AF%E4%BF%AE.jpg" width="100" height="100"><br>Kishore Kumar Biswas</td>
@@ -33,8 +33,7 @@ Engineers who need to master AI technologies, learn and use deep learning algori
 </table>
 
 ## Course Contents
-1. Introduction of HCIA-AI
-2. AI Overview
+1. AI Overview
 2. Machine Learning Overview
 3. Deep Learning Overview
 4. Mainstream Development Frameworks in the Industry
