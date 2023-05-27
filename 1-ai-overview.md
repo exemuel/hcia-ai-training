@@ -59,6 +59,68 @@ Upon completion of this course, you will be able to:
 
 ![What is AI?](https://forum.huawei.com/enterprise/en/data/attachment/forum/202101/28/143621kbprxjh19rlj8ez6.png?%E6%88%AA%E5%9B%BE.PNG)
 
+#### Relationship of AI, Machine Learning and Deep Learning
+- AI: A new technical science that focuses on the research and development of theories, methods, techniques, and application systems for simulating and extending human intelligence.
+- Machine learning: A core research field of AI. It focuses on the study of how computers can obtain new knowledge or skills by simulating or performing learning behavior of human beings, and reorganize existing knowledge architecture to improve its performance. It is one of the core research fields of AI.
+- Deep learning: A new field of machine learning. The concept of deep learning originates from the research on artificial neural networks. The multi-layer perceptron (MLP) is a type a deep learning architecture. Deep learning aims to simulate the human brain to interpret data such as images, sounds, and texts.
+
+#### Three Major Schools of Thought
+##### 1. Symbolism
+- Basic thoughts
+  - The cognitive process of human beings is the process of inference and operation of various symbols.
+  - A human being is a physical symbol system, and so is a computer. Computers, therefore, can be used to simulate intelligent behavior of human beings.
+  - The core of AI lies in knowledge representation, knowledge inference, and knowledge application. Knowledge and concepts can be represented with symbols.
+  - Cognition is the process of symbol processing while inference refers to the process of solving problems by using heuristic knowledge and search.
+- Representative of symbolism: inference, including symbolic inference and machine inference
+
+##### 2. Connectionism
+- Basic thoughts
+  - The basis of thinking is neurons rather than the process of symbol processing.
+  - Human brains vary from computers. A computer working mode based on connectionism is proposed to replace the computer working mode based on symbolic operation.
+- Representative of connectionism: neural networks and deep learning
+
+![Apple in The Eyes of Connectionism](https://github.com/exemuel/hcia-ai-training/blob/main/images/apple-in-the-eyes-of-connectionism.png)
+
+##### 3. Behaviorism
+- Basic thoughts:
+- Intelligence depends on perception and action. The perception-action mode of intelligent behavior is proposed.
+- Intelligence requires no knowledge, representation, or inference. AI can evolve like human intelligence. Intelligent behavior can only be demonstrated in the real world through the constant interaction with the surrounding environment.
+- Representative of behaviorism: behavior control, adaptation, and evolutionary computing
+
+### Brief Development History of AI
+![Brief Development History of AI](https://github.com/exemuel/hcia-ai-training/blob/main/images/brief-development-history-of-ai.png)
+
+### Overview of AI Technologies
+- AI technologies are multi-layered, covering the application, algorithm mechanism, toolchain, device, chip, process, and material layers.
+
+![Overview of AI Technologies](https://github.com/exemuel/hcia-ai-training/blob/main/images/ai-related-technology-overview.PNG)
+
+
+### Types of AI
+- Strong AI
+  - The strong AI view holds that it is possible to create intelligent machines that can really reason and solve problems.
+  - Such machines are considered to be conscious and self-aware, can independently think about problems and work out optimal solutions to problems, have their own system of values and world views, and have all the same instincts as living things, such as survival and security needs.
+  - It can be regarded as a new civilization in a certain sense.
+- Weak AI
+  - The weak AI view holds that intelligent machines cannot really reason and solve problems.
+  - These machines only look intelligent, but do not have real intelligence or self-awareness.
+
+### Classification of Intelligent Robots
+- Currently, there is no unified definition of AI research. Intelligent robots are generally classified into the following four types:
+  - **"Thinking like human beings"**: weak AI, such as Watson and AlphaGo
+  - **"Acting like human beings"**: weak AI, such as humanoid robot, iRobot, and Atlas of Boston Dynamics
+  - **"Thinking rationally"**: strong AI (Currently, no intelligent robots of this type have been created due to the bottleneck in brain science.)
+  - **"Acting rationally"**: strong AI
+
+### AI Industry Ecosystem
+- The four elements of AI are data, algorithm, computing power, and scenario.
+- To meet requirements of these four elements, we need to combine AI with cloud computing, big data, and IoT to build an intelligent society.
+
+![AI Industry Ecosystem](https://github.com/exemuel/hcia-ai-training/blob/main/images/ai-industry-ecosystem.PNG)
+
+### Sub-fields of AI
+![Sub-fields of AI]([https://github.com/exemuel/hcia-ai-training/blob/main/images/ai-industry-ecosystem.PNG](https://github.com/exemuel/hcia-ai-training/blob/main/images/subfields-involved-in-ai.PNG))
+
 ### Technical Fields and Application Fields of AI <a name="second"></a>
 a
 
