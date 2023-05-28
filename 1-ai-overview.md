@@ -59,6 +59,7 @@ Upon completion of this course, you will be able to:
 
 ![What is AI?](https://forum.huawei.com/enterprise/en/data/attachment/forum/202101/28/143621kbprxjh19rlj8ez6.png?%E6%88%AA%E5%9B%BE.PNG)
 
+
 #### Relationship of AI, Machine Learning and Deep Learning
 - AI: A new technical science that focuses on the research and development of theories, methods, techniques, and application systems for simulating and extending human intelligence.
 - Machine learning: A core research field of AI. It focuses on the study of how computers can obtain new knowledge or skills by simulating or performing learning behavior of human beings, and reorganize existing knowledge architecture to improve its performance. It is one of the core research fields of AI.
@@ -119,14 +120,31 @@ Upon completion of this course, you will be able to:
 ![AI Industry Ecosystem](https://github.com/exemuel/hcia-ai-training/blob/main/images/ai-industry-ecosystem.PNG)
 
 ### Sub-fields of AI
-![Sub-fields of AI]([https://github.com/exemuel/hcia-ai-training/blob/main/images/ai-industry-ecosystem.PNG](https://github.com/exemuel/hcia-ai-training/blob/main/images/subfields-involved-in-ai.PNG))
+![Sub-fields of AI](https://github.com/exemuel/hcia-ai-training/blob/main/images/subfields-involved-in-ai.PNG)
 
 ### Technical Fields and Application Fields of AI <a name="second"></a>
-a
+![Technical Fields and Application Fields of AI](https://github.com/exemuel/hcia-ai-training/blob/main/images/technical-fields-and-application-fields-of-ai.PNG)
+
+#### Distribution of AI Application Technologies in Enterprises Inside and Outside China
+- At present, application directions of AI technologies mainly include:
+  - **Computer vision**: a science of how to make computers "see"
+  - **Speech processing**: a general term for various processing technologies used to research the voicing process, statistical features of speech signals, speech recognition, machine-based speech synthesis, and speech perception
+  - **Natural language processing (NLP)**: a subject that use computer technologies to understand and use natural language
+
+![Distribution of AI Application Technologies in Enterprises Inside and Outside China](https://github.com/exemuel/hcia-ai-training/blob/main/images/distribution-of-ai-application-technologies-in-enterprises-inside-and-outside-china.PNG) \
+**Distribution of AI application technologies in enterprises inside and outside China** \
+**China AI Development Report 2018**
+
+#### Computer Vision Application Scenario (1)
+- Computer vision is the most mature technology among the three AI technologies. The main topics of computer vision research include image classification, target detection, image segmentation, target tracking, optical character recognition (OCR), and facial recognition.
+- In the future, computer vision is expected to enter the advanced stage of autonomous understanding, analysis, and decision-making, enabling machines to "see" and bringing greater value to scenarios such as unmanned vehicles and smart homes.
+- Application scenarios:
+
+![Computer Vision Application Scenario](https://github.com/exemuel/hcia-ai-training/blob/main/images/computer-vision-application-scenario.png)
 
 ### Huawei's AI Development Strategy <a name="third"></a>
-a
 
+a
 ### AI Disputes <a name="fourth"></a>
 a
 
